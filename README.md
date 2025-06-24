@@ -68,7 +68,7 @@ This Power BI project provides a comprehensive analysis of movie data, focusing 
 
 - **Key Insights:**
   - Runtime has limited correlation with revenue.
-  - Some movies underperformed despite good ratings (e.g., "Selma").
+  - Some movies underperformed despite good ratings.
   - High-vote movies often correlate with higher revenue.
 
 ---
